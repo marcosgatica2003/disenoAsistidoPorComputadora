@@ -1,0 +1,100 @@
+# EESchema Netlist Version 1.1 created  24/10/2012 04:28:45 p.m.
+(
+ ( /50883AD9 C1 C1 C
+  ( 1 N-000006 )
+  ( 2 N-000003 )
+ )
+ ( /50883AE5 C1 C2 C
+  ( 1 N-000004 )
+  ( 2 N-000006 )
+ )
+ ( /50883B8E C1 C4 C
+  ( 1 +12P )
+  ( 2 N-000007 )
+ )
+ ( /50883AB2 CVAR3X2 CVAR3X2 XLR3
+  ( 1 N-000001 )
+  ( 2 N-000002 )
+  ( 3 N-000003 )
+ )
+ ( /50883B71 INDUCTOR_V L1 INDUCTOR
+  ( 1 N-000004 )
+  ( 2 +12P )
+ )
+ ( /50883A76 bornier2 P1 CONN_2
+  ( 1 N-000001 )
+  ( 2 N-000004 )
+ )
+ ( /50883A87 R3 R1 R
+  ( 1 N-000004 )
+  ( 2 N-000002 )
+ )
+ ( /50883B02 R3 R2 R
+  ( 1 N-000004 )
+  ( 2 N-000006 )
+ )
+ ( /50883B07 R3 R3 R
+  ( 1 N-000006 )
+  ( 2 N-000001 )
+ )
+ ( /50883B14 R3 R4 R
+  ( 1 N-000007 )
+  ( 2 N-000001 )
+ )
+ ( /50883B52 SUPER_CAP SUPER_CAP1 CTRIM
+  ( 1 N-000004 )
+  ( 2 +12P )
+ )
+ ( /50883B31 TO92 TO92 NPN
+  ( 1 N-000007 )
+  ( 2 N-000006 )
+  ( 3 +12P )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}

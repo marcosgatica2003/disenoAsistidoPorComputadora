@@ -1,0 +1,18 @@
+Archivo-->Administrador de configuraciones de pagina--->Nuevo:
+
+Nombre: DWG to PDF.pc3 ---> propiedades ---> A3(420cm x 297cm)
+
+trazado de--->Ventana
+
+orientacion del dibujo ---> horizontal
+
+tabla estilos de trazado ----> monochrome
+
+escala de trazado 1:1
+
+centrar trazado
+
+
+Despues de eso aceptar
+
+Archivo---->trazar(imprimir)---->seleccionar configuracion con el nombre dado

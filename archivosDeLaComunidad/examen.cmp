@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 24/10/2012 04:28:45 p.m.
+
+BeginCmp
+TimeStamp = /50883AD9;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /50883AE5;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /50883B8E;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /50883AB2;
+Reference = CVAR3X2;
+ValeurCmp = XLR3;
+IdModule  = CVAR3X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50883B71;
+Reference = L1;
+ValeurCmp = INDUCTOR;
+IdModule  = INDUCTOR_V;
+EndCmp
+
+BeginCmp
+TimeStamp = /50883A76;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50883A87;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50883B02;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50883B07;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50883B14;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /50883B52;
+Reference = SUPER_CAP1;
+ValeurCmp = CTRIM;
+IdModule  = SUPER_CAP;
+EndCmp
+
+BeginCmp
+TimeStamp = /50883B31;
+Reference = TO92;
+ValeurCmp = NPN;
+IdModule  = TO92;
+EndCmp
+
+EndListe

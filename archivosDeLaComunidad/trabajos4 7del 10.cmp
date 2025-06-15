@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 07/10/2012 04:43:33 p.m.
+
+BeginCmp
+TimeStamp = /506C998C;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /506C9994;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /506C99A0;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /506C9E59;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = /506C9D95;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = /506C9B6A;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = /506C997A;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /506C99F4;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /506C9B75;
+Reference = RV1;
+ValeurCmp = POT;
+IdModule  = RV2;
+EndCmp
+
+BeginCmp
+TimeStamp = /506C9AE3;
+Reference = U1;
+ValeurCmp = LM386;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe

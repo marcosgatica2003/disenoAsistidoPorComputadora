@@ -1,0 +1,138 @@
+# EESchema Netlist Version 1.1 created  10/10/2012 04:51:15 p.m.
+(
+ ( /5050E428 C2V8 50v1 CP1
+  ( 1 N-000009 )
+  ( 2 VSS )
+ )
+ ( /5050DF3C C2V10 63v1 CP1
+  ( 1 N-000011 )
+  ( 2 VSS )
+ )
+ ( /5050DF1C C1 C1 C
+  ( 1 N-000011 )
+  ( 2 VSS )
+ )
+ ( /5050DF40 C1V8 C2 CP1
+  ( 1 N-000008 )
+  ( 2 VSS )
+ )
+ ( /5050DF20 C1 C3 C
+  ( 1 N-000009 )
+  ( 2 VSS )
+ )
+ ( /5050DEEB D4 D1 BRIDGE
+  ( 1 VSS )
+  ( 2 N-000005 )
+  ( 3 N-000011 )
+  ( 4 N-000007 )
+ )
+ ( /5050E3AA D4 D2 DIODE
+  ( 1 N-000009 )
+  ( 2 N-000011 )
+ )
+ ( /5050E44B D4 D3 DIODE
+  ( 1 N-000008 )
+  ( 2 N-000009 )
+ )
+ ( /5050E4C2 LED-5MM D4 LED
+  ( 1 N-000009 )
+  ( 2 N-000001 )
+ )
+ ( /5050DF98 FUSE5-20 F1 FUSE
+  ( 1 N-000004 )
+  ( 2 N-000003 )
+ )
+ ( /5050E6CE bornier2 P1 CONN_2
+  ( 1 N-000006 )
+  ( 2 N-000002 )
+ )
+ ( /505A19DE bornier2 P2 CONN_2
+  ( 1 N-000009 )
+  ( 2 VSS )
+ )
+ ( /5050E3D4 R1 R1 R
+  ( 1 N-000009 )
+  ( 2 N-000008 )
+ )
+ ( /5050E4CD R1 R2 R
+  ( 1 N-000001 )
+  ( 2 VSS )
+ )
+ ( /505A1A1D bornier3 RV1 POT
+  ( 1 N-000008 )
+  ( 2 VSS )
+  ( 3 VSS )
+ )
+ ( /5050DF8A SW_PUSH SW1 SPST
+  ( 1 N-000002 )
+  ( 2 N-000004 )
+ )
+ ( /5050E0F3 TCXO_G158 T1 TR1-SO8
+  ( 1 N-000003 )
+  ( 4 N-000006 )
+  ( 5 N-000005 )
+  ( 8 N-000007 )
+ )
+ ( /5050E2BE TO220_VERT U1 LM317
+  ( 1 N-000011 )
+  ( 2 N-000008 )
+  ( 3 N-000009 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component 50v1
+ CP*
+ SM*
+$endlist
+$component 63v1
+ CP*
+ SM*
+$endlist
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ CP*
+ SM*
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component D2
+ D?
+ S*
+$endlist
+$component D3
+ D?
+ S*
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
